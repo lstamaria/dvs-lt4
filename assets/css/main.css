@@ -2157,8 +2157,9 @@
 			text-align: justify/*center*/;
 		}
 
-		#main > section	p img {
-			text-align: center;
+		#main > section	p img.center {
+    		display: block;
+    		margin: 0 auto;
 		}
 
 			#main > section.dark {

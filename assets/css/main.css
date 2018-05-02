@@ -2172,6 +2172,11 @@
     		margin: 0 auto;
 		}
 
+		#main > section	div.center {
+    		display: block;
+    		margin: 0 auto;
+		}
+
 			#main > section.dark {
 				color: #ddd;
 				color: rgba(255, 255, 255, 0.75);

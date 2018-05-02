@@ -2157,12 +2157,17 @@
 			text-align: justify/*center*/;
 		}
 
-		#main > section	p.center {
+		/*#main > section	p.center {
     		display: block;
     		margin: 0 auto;
-		}
+		}*/
 
-		#main > section	p img.center {
+		/*#main > section	p img.center {
+    		display: block;
+    		margin: 0 auto;
+		}*/
+
+		#main > section	.center {
     		display: block;
     		margin: 0 auto;
 		}

@@ -216,6 +216,10 @@
 	}
 
 /* Grid */
+	.innerrow {
+  		width: 50%;
+  		margin: 0 auto;
+	}
 
 	.row {
 		border-bottom: solid 1px transparent;
